@@ -1,3 +1,5 @@
+#Creando un ventana con rejilla para visualizar puntos
+
 from tkinter import *
 
 
