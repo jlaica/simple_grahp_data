@@ -1,10 +1,12 @@
 from tkinter import *
 
-window = Tk()
+
 b = 600
 h = 400
 marg=50
 
+window = Tk()
+window.title('Visualización de Datos')
 w = Canvas(window, width=b, height= h)
 w.pack()
 
